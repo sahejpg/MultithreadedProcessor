@@ -17,3 +17,6 @@ This project, as a part of the CS2200 (Systems and Networks) course, involves th
 - Operating Systems principles, especially CPU scheduling and multithreading.
 - Practical application of pthreads in a Linux environment.
 
+## File Layout
+- 'student.c': Core implementation of the CPU scheduling algorithms.
+
